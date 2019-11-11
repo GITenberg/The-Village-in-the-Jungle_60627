@@ -1,0 +1,35 @@
+_repo: The-Village-in-the-Jungle_60627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Leonard
+    alias: Woolf, Leonard Sidney
+    birthdate: 1880
+    deathdate: 1969
+    gutenberg_agent_id: '4565'
+    url: http://www.gutenberg.org/2009/agents/4565
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Woolf
+description: ''
+gutenberg_issued: '2019-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60627'
+  lccn: '14013377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Culture conflict -- Fiction'
+- !lcsh 'Colonial administrators -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Imperialism -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Sri Lanka -- Fiction'
+- !lcsh 'British -- Sri Lanka -- Fiction'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: The Village in the Jungle
+url: http://www.gutenberg.org/ebooks/60627
